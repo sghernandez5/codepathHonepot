@@ -23,6 +23,8 @@ The gif below shows how I navigated through my MH-ADMIN, Honeypot1 and my local 
 ### Dionaea Honeypot Deployment (Required)
 
 **Summary:** Briefly in your own words, what does dionaea do?
+
+
 Dioanaea is the honepot that I created, to capture any malicious traffic that it intercepts into its fake network. Below shows the the attacks it has encountered from other machines. 
 
 <img src="https://user-images.githubusercontent.com/70529850/165026094-2ee659ae-d2d1-4438-9aa0-ae3a956dfa88.gif">
