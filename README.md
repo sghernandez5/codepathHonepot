@@ -39,10 +39,11 @@ MHN-Admin uses mysql as its RDBMS. The json file captures the type of attacks di
  A snippet of the information captured in the json file is shown below:
 
 
-<img src="![session](https://user-images.githubusercontent.com/70529850/165028415-c6a6e731-6cea-4641-900a-8b426d2f4e66.png)
-">
+<img src="https://user-images.githubusercontent.com/70529850/165028415-c6a6e731-6cea-4641-900a-8b426d2f4e66.png">
 
-*Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
+Below are other stats for my single honepot. 
+
+<img src="https://user-images.githubusercontent.com/70529850/165028936-04199eb7-c132-4de2-8615-f7f05dee7481.png">
 
 ## Notes
 
@@ -50,4 +51,3 @@ I had quite a few issues with GCP, at first it couldnt recognzie which project I
 
 I did have the ui of my MHN server crash for a bit, it wasnt displaying the attacks. 
 
-I couldnt find the top 5 attacks, my ui wouldnt display them. It showed a still image. 
