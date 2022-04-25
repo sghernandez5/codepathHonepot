@@ -35,6 +35,7 @@ MHN-Admin uses mysql as its RDBMS. The json file captures the type of attacks di
   - the ip address of the machine
   - the destination 
   -  the oid
+  
  A snippet of the information captured in the json file is shown below:
 
 
