@@ -7,9 +7,12 @@
 ### MHN-Admin Deployment (Required)
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
+
+
 I used GCP to deploy my honeypot. I followed the instructions within the assignment and created an account through GCP and donwloaded GCP SDK on my ubuntu machine. 
 
 <img src="https://user-images.githubusercontent.com/70529850/165026012-897e1532-7168-4614-bda9-c07be8d124c7.gif">
+
 
 The gif below shows how I navigated through my MH-ADMIN, Honeypot1 and my local machine. 
 
