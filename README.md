@@ -8,13 +8,13 @@
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
 
-<img src="mhn-admin.gif">
+<img src="https://user-images.githubusercontent.com/70529850/165026012-897e1532-7168-4614-bda9-c07be8d124c7.gif">
 
 ### Dionaea Honeypot Deployment (Required)
 
 **Summary:** Briefly in your own words, what does dionaea do?
 
-<img src="dionaea-honeypot.gif">
+<img src="https://user-images.githubusercontent.com/70529850/165026094-2ee659ae-d2d1-4438-9aa0-ae3a956dfa88.gif">
 
 ### Database Backup (Required) 
 
